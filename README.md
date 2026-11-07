@@ -2,8 +2,8 @@
 - I'm currently learning to utilize robust web frameworks to create awesome things!<br> 
 - I'm looking to collaborate on projects that aim to enrich users' lives. <br> 
 - Passions? Tech, Building Tangible products, Solving Problems and Learning Languages<br> 
-- Ask me about what I ate today!<br> 
-- Professional Memer
+- Professional Memer<br>
+- 100% human (as far as I know) 
 
 
 ## 🌐 Socials:
