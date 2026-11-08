@@ -1,9 +1,10 @@
 # 💫 About Me:
 - I'm currently learning to utilize robust web frameworks to create awesome things!<br> 
 - I'm looking to collaborate on projects that aim to enrich users' lives. <br> 
-- Passions? Tech, Building Tangible products, Solving Problems and Learning Languages<br> 
+- Passions? Tech, Building Tangible products, Solving Problems and Learning Languages<br>
+- Spoken Languages: English, Arabic and German (there's more to come :)) ). <br> 
 - Professional Memer<br>
-- 100% human (as far as I know) 
+- 100% human, not AI (as far as I know) 
 
 
 ## 🌐 Socials:
