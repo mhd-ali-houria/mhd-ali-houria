@@ -5,7 +5,7 @@
 - 📚 Spoken Languages: English, Arabic and German (there's more to come :)) ). <br> 
 - 😎 Professional Memer<br>
 - 🧑 100% human, not AI (as far as I know) <br>
-   (╯°□°)╯︵ ┻━┻              ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
+   (╯°□°)╯︵ ┻━┻ --------- ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-horia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buisness.alihouria@gmail.com) 
