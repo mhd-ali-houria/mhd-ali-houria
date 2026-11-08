@@ -1,11 +1,11 @@
 # 💫 About Me:
-- I'm currently learning to utilize robust web frameworks to create awesome things!<br> 
-- I'm looking to collaborate on projects that aim to enrich users' lives. <br> 
-- Passions? Tech, Building Tangible products, Solving Problems and Learning Languages<br>
-- Spoken Languages: English, Arabic and German (there's more to come :)) ). <br> 
-- Professional Memer<br>
-- 100% human, not AI (as far as I know) 
-
+- 🤩 I'm currently learning to utilize robust web frameworks to create awesome things!<br> 
+- 🧩 I'm looking to collaborate on projects that aim to enrich users' lives. <br> 
+- 🔥 Passions? Tech, Building Tangible products, Solving Problems and Learning Languages<br>
+- 📚 Spoken Languages: English, Arabic and German (there's more to come :)) ). <br> 
+- 😎 Professional Memer<br>
+- 🧑 100% human, not AI (as far as I know)
+   ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-horia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:buisness.alihouria@gmail.com) 
